@@ -14,4 +14,4 @@ The client an application written in Dart with Flutter that connects to the serv
 4. IP text box - This is used in order to change the address to whatever the app wants to connect to. This will be saved until another IP is typed. 
 
 
-C++ version in progress. At the beginning, this was originally written in C++, but during the halfway point, the switch to Python to decided. Since working on the Python version, I am intersted in getting the C++ version of working. Right now only a small section is working and I am now currently implementing TCP connection.
+C++ version in progress. At the beginning, this was originally written in C++, but during the halfway point, the switch to Python was decided. Since working on the Python version, I am intersted in getting the C++ version of this working. Right now only a small section is working and I am now currently implementing TCP connection.
